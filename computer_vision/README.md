@@ -1,5 +1,7 @@
 # Computer Vision
 
+Computer vision has made our lives much more convenient
+
 Computer vision is a field of computer science that works on enabling computers to see, identify and process images in the same way that human does, and provide appropriate output.
 
 It is like imparting human intelligence and instincts to a computer.
