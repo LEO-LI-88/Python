@@ -1,3 +1,5 @@
+# The idea behind bubble sort is to compare the left and right adjacent data and swap the data depending on the condition,
+# so that the whole sequence is either ascending or descending
 from typing import Any
 
 
